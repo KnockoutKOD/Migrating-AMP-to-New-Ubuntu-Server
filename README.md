@@ -1,4 +1,4 @@
-# migrating-amp-ubuntu
+# Migrating AMP to a new Ubuntu Server
 Detailed instructions for migrating an entire AMP instance from one Ubuntu server to another.
 
 # Required Prep Tasks
