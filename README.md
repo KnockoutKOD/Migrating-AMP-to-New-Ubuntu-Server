@@ -2,7 +2,7 @@
 Detailed instructions for migrating an entire AMP instance from one Ubuntu server to another.
 
 # Required Prep Tasks
-1. Update the AMP instance on the "old" server.
+1. Update the AMP instance on the "old" server by using the web interface.
 2. Assume the AMP user on the "old" server via SSH and using the command `sudo -i -u amp`.
 3. Run `ampinstmgr stopall` and verify that all instances have stopped.
 4. Return to your normal user by using `su username` and entering the password.
